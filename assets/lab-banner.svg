@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">CyberSecJase — Security Lab</title><desc id="desc">Jason Romero's cybersecurity learning portfolio. Build. Investigate. Document.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#12293b"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#80c9d8" stroke-opacity=".06"/></pattern></defs>
+<rect width="1280" height="360" rx="22" fill="url(#bg)"/><rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+<rect x="54" y="48" width="6" height="260" rx="3" fill="#55e0bb"/>
+<text x="86" y="79" fill="#55e0bb" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">CYBERSECJASE / LEARNING IN PUBLIC</text>
+<text x="82" y="164" fill="#f4f8ff" font-family="Arial,sans-serif" font-size="65" font-weight="700">Security Lab</text>
+<text x="86" y="208" fill="#b2c5d9" font-family="Arial,sans-serif" font-size="23">Jason Romero · Cybersecurity Portfolio</text>
+<text x="86" y="273" fill="#d7e5f4" font-family="Arial,sans-serif" font-size="19" letter-spacing="2">BUILD. INVESTIGATE. DOCUMENT.</text>
+<rect x="890" y="57" width="326" height="246" rx="14" fill="#091321" stroke="#2b455b"/>
+<circle cx="913" cy="80" r="4" fill="#55e0bb"/><circle cx="929" cy="80" r="4" fill="#7691a9"/><circle cx="945" cy="80" r="4" fill="#7691a9"/>
+<path d="M891 99H1215" stroke="#2b455b"/>
+<text x="915" y="140" fill="#55e0bb" font-family="monospace" font-size="16">&gt; initialize portfolio</text>
+<text x="915" y="179" fill="#e0ebf6" font-family="monospace" font-size="16">[01] log investigation</text>
+<text x="915" y="213" fill="#93adc7" font-family="monospace" font-size="16">status: ready to begin</text>
+<text x="915" y="265" fill="#55e0bb" font-family="monospace" font-size="16">&gt; learn by doing_</text>
+</svg>
